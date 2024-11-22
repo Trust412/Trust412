@@ -129,8 +129,8 @@
       <br>Vue
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
-      <br>Nuxt.js
+      <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAKlBMVEVDsCpDsCpHcExDsCpDsCpDsCpDsCpDsCpDsCpDsCpDsCpDsCpDsCpDsCrPLUORAAAADnRSTlP/ngDlDESFy7X2NHAcVqO+fdUAAAC/SURBVHgBY0AGjEooXCNUrhMKl1UJhZukpI7EY1dSakDiMikpwtlNExgWKQnAeMxKDtxKakj6dJqUNiC7QEkXSCFUKwWgOFALypjrpJMAlF4AUwYEBnBVXErN1apAegKEywLUZMDAGaR0Eyp7ugFokkqIClxvMMOiBQxBEGfMPgQ0Smmj4CYHiG7OVqXNIOMVwIqBlipdUMo0tgTbxqMjXqskEKTMUAgxGahMi2GKkhPULbWHvID+3qMSzkAiAACovSMkIPzbJgAAAABJRU5ErkJggg==" width="45" height="45" alt="selenium" />
+      <br>Selenium
     </td>
   </tr>
 </table>
