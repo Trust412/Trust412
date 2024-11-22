@@ -1,4 +1,4 @@
-# <div align="center">💫 Frontend | Backend | Blockchain Developer 💫 &nbsp;</div>
+# <div align="center">💫 Bot developer | Blockchain Developer 💫 &nbsp;</div>
 
 <br/>🤝 I’m finding a Job to challenge "Real" world problems. I bring you the best solution for your idea!
 <br/>💬 Ask me about React, Next.js, Solidity, Solana, Rust, CSS, DEFI, NFT, WEB3, JS/TS, CrossChain and Life-Science related topics
