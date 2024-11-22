@@ -87,8 +87,8 @@
       <br>SQLite
     </td>
     <td align="center" width="90">
-      <img src="https://avatars.githubusercontent.com/u/43092013?s=200&v=4" width="45" height="45" alt="Supabase" />
-      <br>Supabase
+      <img src="https://avatars.githubusercontent.com/u/43092013?s=200&v=4" width="45" height="45" alt="Dune" />
+      <br>Dune
     </td>
   </tr>
   <tr>
