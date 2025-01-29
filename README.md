@@ -136,7 +136,7 @@
 </table>
 <br/>
 
-
+<!--
 # 📊 GitHub Activities:
 
 <p align="center">
@@ -160,7 +160,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Trust412&theme=onestar&no-frame=true&column=3&row=2"  height="250px" alt="@Trust's trophy stats"/>
   </a>
 </div>
-
+-->
 # 💫 About Me:
 🔭 I build Web Applicatons with Modern UI/UX, Web3 Dapp with real time blockchain event fetching, NFTs, CrossChain and Love to play with different DeFi protocols
 
